@@ -1,7 +1,7 @@
 #/*************************************************************************/
 #/* CT60A2500 C-ohjelmoinnin perusteet
 # * Tekijä: Tuomas Lättilä
-# * Opiskelijanumero: 000437136
+# * Opiskelijanumero:
 # * Päivämäärä: 28.2.2023
 # * Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
 # * lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
